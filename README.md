@@ -1,7 +1,9 @@
 # ExampleSQLApp
 
 С# | Visual Studio 2022
+
 .NET 4.8, MySQL(MariaDB), Windows Forms (.NET Framework)
+
 Template - App Windows Forms (.NET Framework)
 
 icon finder
