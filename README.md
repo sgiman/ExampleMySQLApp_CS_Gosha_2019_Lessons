@@ -24,5 +24,4 @@ in which all actions will be synchronized with the MySQL database.
 ![hqdefault (1)](https://github.com/sgiman/ExampleSQLApp/assets/7030369/f68a7b9d-efc3-4603-9665-c8e7ae880844)
 
 
-
 **Sgiman @ 2023**
