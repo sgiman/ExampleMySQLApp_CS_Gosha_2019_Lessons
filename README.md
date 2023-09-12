@@ -7,11 +7,9 @@
 Template - App Windows Forms (.NET Framework)
 
 icon finder
-
 https://www.iconfinder.com/
 
-Connector/NET 8.1.0//
-
+Connector/NET 8.1.0
 https://dev.mysql.com/downloads/connector/net/
 
 ## Уроки C# .NET Windows Forms + Базы данных SQL (Gosha Dudar)
